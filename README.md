@@ -54,12 +54,14 @@ This repository serves as:
 <div align="center">
   
 [![GitHub](https://img.shields.io/badge/GitHub-Splendidday205-181717?style=for-the-badge&logo=github)](https://github.com/Splendidday205)
-[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+<!-- Uncomment and update with your email: [![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com) -->
 
 </div>
 
 ## 📝 Latest Activity
 
+<!-- This section can be automated with GitHub Actions to show recent activity -->
+<!-- For setup instructions, see: https://github.com/jamesgeorge007/github-activity-readme -->
 <!--START_SECTION:activity-->
 <!--END_SECTION:activity-->
 
